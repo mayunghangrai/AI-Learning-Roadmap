@@ -6,10 +6,10 @@ This repository documents my personal learning journey studying "An Introduction
 ### ✅ Completed
 ### 🔜 Upcoming
 - [ ] **Chapter 1: Introduction**
-
+      **URL:extension://bfdogplmndidlpjfhoijckpakkdjkkil/pdf/viewer.html?file=https%3A%2F%2Fmml-book.github.io%2Fbook%2Fmml-book.pdf
 
 - [ ] **Chapter 2: Linear Algebra** 
-
+      **URL:
 
 - [ ] **Chapter 3: Analytic Geometry** 
 - [ ] **Chapter 4: Matrix Decompositions**
